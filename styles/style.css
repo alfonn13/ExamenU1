@@ -12,7 +12,8 @@ label{
 }
 
 input{
-    height: 30px;
+    height: 17px;
+    padding: 10px;
 }
 
 .container{
