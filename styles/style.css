@@ -4,6 +4,15 @@ body{
 
 h1{
     text-align: center;
+    font-size: 55px;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    height: 30px;
 }
 
 .container{
@@ -26,4 +35,8 @@ h1{
 .button:hover{
     background-color: #145ca8;
     cursor: pointer;
+}
+
+.result{
+    font-family: Courier, monospace;
 }
