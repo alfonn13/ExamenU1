@@ -1,3 +1,4 @@
+/*Cambiamos la letra para el proyecto*/
 body{
     font-family: 'Courier New', Courier, monospace;
 }
@@ -16,18 +17,22 @@ input{
     padding: 10px;
 }
 
+/*Cambiamos el tamaño de la letra y tambien para que se situe en el centro*/
 .container{
     text-align: center;
     font-size: 20px;
 }
 
+/*Hacemos un padding para que no este pegado dentro del input*/
 .text{
     padding-bottom: 18px;
 }
 
+/*Botones*/
 .button{
     background-color: #007BFF;
-    width: 90px;
+    font-size: 16px;
+    width: 100px;
     height: 40px;
     color: white;
     border: none;
@@ -38,6 +43,7 @@ input{
     cursor: pointer;
 }
 
+/*Cambiamos la letra para el resultado*/
 .result{
     font-family: Courier, monospace;
 }
