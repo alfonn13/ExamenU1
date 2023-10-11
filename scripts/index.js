@@ -1,6 +1,6 @@
 /*
 Alfonso Reviejo Valle
-GitHub: 
+GitHub: https://github.com/alfonn13/ExamenU1
 */
 
 document.addEventListener("DOMContentLoaded", ()=> {
